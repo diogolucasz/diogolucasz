@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2>Diogo Teixeira Lucas</h2>
+
+</br>
 
 Hi, call me Rodz 👋. I'm a Software Engineer at X-Team
 
