@@ -4,7 +4,7 @@
 
 Hi, call me Rodz 👋. I'm a Software Engineer at X-Team
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=%cdb89d&label=%40guilherme_rodz&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/guilherme_rodz)
+[![Gmail Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=cdb89d&label=%40guilherme_rodz&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/guilherme_rodz)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=#cdb89d)](https://linkedin.com/in/guilhermerodz)
 [![YouTube Badge](https://img.shields.io/badge/youtube--%2300EBEB?style=for-the-badge&logo=youtube)](https://youtube.com/guilhermerodz)
 
