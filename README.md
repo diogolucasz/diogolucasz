@@ -2,11 +2,11 @@
 
 </br>
 
-Hi, call me Rodz 👋. I'm a Software Engineer at X-Team
+Hey, call me Diogo . I'm a Software Engineer student.
 
-[![Gmail Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=cdb89d&label=%40guilherme_rodz&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/guilherme_rodz)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=#cdb89d)](https://linkedin.com/in/guilhermerodz)
-[![YouTube Badge](https://img.shields.io/badge/youtube--%2300EBEB?style=for-the-badge&logo=youtube)](https://youtube.com/guilhermerodz)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?color=cdb89d&style=for-the-badge&logo=linkedin&logoColor=#cdb89d)](https://linkedin.com/in/diogolucasz)
+[![Gmail Badge](https://img.shields.io/badge/gmail--%2300EBEB?color=cdb89d&style=for-the-badge&logo=linkedin&logoColor=#cdb89d)](mailto:diogoteixeiralucas@gmail.com)
+
 
 <!--
 **diogolucasz/diogolucasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
