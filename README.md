@@ -2,7 +2,7 @@
 
 </br>
 
-Hey, call me Diogo . I'm a Software Engineer student.
+Hey, Im Diogo . I'm a Software Engineer student.
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?color=cdb89d&style=for-the-badge&logo=linkedin&logoColor=#cdb89d)](https://linkedin.com/in/diogolucasz)
 [![Gmail Badge](https://img.shields.io/badge/gmail--%2300EBEB?color=cdb89d&style=for-the-badge&logo=linkedin&logoColor=#cdb89d)](mailto:diogoteixeiralucas@gmail.com)
